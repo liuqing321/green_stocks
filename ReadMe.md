@@ -21,6 +21,12 @@ Steve's parents could consider buying some shares from RUN and ENPH.
 
 ### Comparison between the original code and the refactored code
 
+
+![VBA_Challenge_2017(1)](https://user-images.githubusercontent.com/88631769/132997899-58a69c83-5107-47ae-9a08-c1b632995022.png)
+![VBA_Challenge_2017(2)](https://user-images.githubusercontent.com/88631769/132997900-a0adf489-d82a-4825-af07-bc6d0beb29dd.png)
+![VBA_Challenge_2018(1)](https://user-images.githubusercontent.com/88631769/132997901-dfc03a4b-e59e-4545-8eff-60c14f8a3d15.png)
+![VBA_Challenge_2018(2)](https://user-images.githubusercontent.com/88631769/132997905-387c851d-8ae7-42c7-aa37-3023de0ca443.png)
+
 From the images above, we can see that the refactored code is more efficient than the original one. The refactored code running much more faster than the original one. 
 
 ### Refactored code 
