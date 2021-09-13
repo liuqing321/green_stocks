@@ -111,6 +111,9 @@ From the images above, we can see that the refactored code is more efficient tha
     
     Cells(4 + i, 1).Value = tickers(i)
     Cells(4 + i, 2).Value = tickerVolumes(i)
+    Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
+    
+    Next i
 
 ## Summary 
 
